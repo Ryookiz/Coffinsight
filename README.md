@@ -14,6 +14,7 @@ Youngho Kim
 - Youngho.Kim@stonybrook.edu
 
 ##Project Outline
+
 ###Tentative Target User
 -
 
