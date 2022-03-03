@@ -13,16 +13,16 @@ Junghun Park
 Youngho Kim
 - Youngho.Kim@stonybrook.edu
 
-##Project Outline
+## Project Outline
 
-###Tentative Target User
+### Tentative Target User
 -
 
-###Problem your product will be solving
+### Problem your product will be solving
 -
 
-###Provide at least two or three existing or related solutions
+### Provide at least two or three existing or related solutions
 -
 
-###Plan to find people to interview
+### Plan to find people to interview
 -
