@@ -1,4 +1,4 @@
-# Coffinsight - Team RyooKiz
+# Coffinsight - RyooKiz
 * CSE518 Human Computer interaction Final Project
 ## Team Members
 Name | Email
