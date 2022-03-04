@@ -1,6 +1,6 @@
 # Coffinsight - RyooKiz
 * CSE518 Human Computer interaction Final Project
-## Team Members
+## RyooKiz Members
 Name | Email
 ---|---|
 Dukyoung Eum  |  dukyoung.eom@stonybrook.edu
