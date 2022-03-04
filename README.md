@@ -1,28 +1,23 @@
-# CSE518
-CSE518 Human Computer interaction Final Project
+# Coffinsight
+* CSE518 Human Computer interaction Final Project
 ## Team Members
-Dukyoung Eum
-- dukyoung.eom@stonybrook.edu
-
-Hamin Lim
-- Hamin.Lim@stonybrook.edu
-
-Junghun Park
-- junghun.park@stonybrook.eud
-
-Youngho Kim
-- Youngho.Kim@stonybrook.edu
+Name | Email
+---|---|
+Dukyoung Eum  |  dukyoung.eom@stonybrook.edu
+Hamin Lim     |  Hamin.Lim@stonybrook.edu
+Junghun Park  |  junghun.park@stonybrook.eud
+Youngho Kim   |  Youngho.Kim@stonybrook.edu
 
 ## Project Outline
 
-### Tentative Target User
+### Tentative Target Users
 -
 
-### Problem your product will be solving
+### Problem to Solve
 -
 
-### Provide at least two or three existing or related solutions
+### Existing or Related Solutions (Competitors)
 -
 
-### Plan to find people to interview
+### Plan for survey or interview
 -
