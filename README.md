@@ -18,12 +18,10 @@ Youngho Kim   |  youngho.Kim@stonybrook.edu
 
 ### Existing or Related Solutions (Competitors)
 - There are two major existing services called ChangUp in(창업인 = Start up people) and MyPuCha(마이프차 = My Franchise).
-- 
-* [**ChangUp in**](https://changupin.kr/)
-- ChangUp in provides group chatting services to current owners and potential owners. 
 
-* [**MyPuCha**](https://myfranchise.kr/)
-- MyPuCha is a  franchise community and platform for both current and potential franchise owners.
+* [**ChangUp in**](https://changupin.kr/) provides group chatting services to current owners and potential owners. 
+
+* [**MyPuCha**](https://myfranchise.kr/) is a  franchise community and platform for both current and potential franchise owners.
 
 ### Plan for survey or interview
 -
