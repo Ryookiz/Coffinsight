@@ -24,4 +24,4 @@ There are two major existing services called ChangUp in(창업인 = Start up peo
 * [**MyPuCha**](https://myfranchise.kr/) is a  franchise community and platform for both current and potential franchise owners.
 
 ### Plan for survey or interview
--
+- First, we would like to start to interview the potential (meaning that people already preparing to open a café) and current café owners that we know of. Preferably, the interview will be held in-person if the interviewee allows (our team will visit the café or the place that interviewee prefers). We will also find more people to interview by asking interviewees their role model or cafes that they referred to.
