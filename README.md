@@ -12,9 +12,9 @@ Youngho Kim   |  youngho.Kim@stonybrook.edu
 
 ### Tentative Target Users
 - Owners of the Cafe
-Get the insight and tips to manage the cafe; especially sharing difficulties for managing the cafe and interior tips for the cafe
+: Get the insight and tips to manage the cafe; especially sharing difficulties for managing the cafe and interior tips for the cafe
 - Potential owners of the Cafe
-People who are struggling to open their shop with their brands
+: People who are struggling to open their shop with their brands
 
 ### Problem to Solve
 - The cafe industry in South Korea grows rapidly. The number of cafes in South Korea had increased 15% from 2020 to 2021 even during the COVID-Pandemic. 10,000 cafes are founded annually, but the exit rate of self-employed cafes recorded 12% in 2021. Unlike franchise cafes, self-employed cafes need to demonstrate their own identity and own story to customers. However, there are too many steps to open a cafe as an individual like market research, real estate contact, material supply, interior construction, etc. Therefore, we are going to create a platform where self-employed cafe owners can share their own founding stories. 
