@@ -11,7 +11,7 @@ Youngho Kim   |  youngho.Kim@stonybrook.edu
 ## Project Outline
 
 ### Tentative Target Users
-- Owners of the Cafe
+- Cafe owners
 : Get the insight and tips to manage the cafe; especially sharing difficulties for managing the cafe and interior tips for the cafe
 - Potential owners of the Cafe.
 : People who are struggling to open their shop with their brands.
