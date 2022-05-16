@@ -1,0 +1,692 @@
+/* screen - request-form-2 */
+
+.request-form-2 {
+  background-color: var(--white);
+  height: 1201px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.request-form-2 .group-127-XEctnc {
+  background-color: transparent;
+  height: 56px;
+  left: 23px;
+  position: absolute;
+  top: 392px;
+  width: 328px;
+}
+
+.request-form-2 .rectangle-151-JtIu27 {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 328px;
+}
+
+.request-form-2 .mo_gnb-XEctnc {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 45px;
+  width: 375px;
+}
+
+.request-form-2 .rectangle-74-nXFy9H {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.request-form-2 .icon_24_hamburg-nXFy9H {
+  background-color: transparent;
+  height: 24px;
+  left: 327px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.request-form-2 .hamburg-ETf2HZ {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 22px;
+}
+
+.request-form-2 .rectangle-76-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-79-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-82-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-77-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-80-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-83-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-78-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-81-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.request-form-2 .rectangle-84-JnZaPm {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.request-form-2 .line-2-nXFy9H {
+  background-color: transparent;
+  height: 1px;
+  left: -288px;
+  position: absolute;
+  top: 60px;
+  width: 1920px;
+}
+
+.request-form-2 .request-form-XEctnc {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.request-form-2 .span25bni-2NFmvv {
+}
+
+.request-form-2 .ask-your-cafe-mentor-XEctnc {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  width: 271px;
+}
+
+.request-form-2 .spank3a93-Xjxv7G {
+}
+
+.request-form-2 .group-64-XEctnc {
+  background-color: transparent;
+  height: 46px;
+  left: 147px;
+  position: absolute;
+  top: 863px;
+  width: 84px;
+}
+
+.request-form-2 .rectangle-65-6bomBj {
+  background-color: var(--gray-nurse);
+  border-radius: 5px;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.request-form-2 .submit-6bomBj {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanl9s03-pFzxje {
+}
+
+.request-form-2 .group-129-XEctnc {
+  background-color: transparent;
+  height: 569px;
+  left: 23px;
+  position: absolute;
+  top: 255px;
+  width: 345px;
+}
+
+.request-form-2 .rectangle-151-aBxPYh {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31px;
+  width: 328px;
+}
+
+.request-form-2 .please-enter-your-phone-number-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanu7z8a-nu4Dbx {
+}
+
+.request-form-2 .rectangle-151-kP9iuS {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 241px;
+  width: 328px;
+}
+
+.request-form-2 .rectangle-152-aBxPYh {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 513px;
+  width: 328px;
+}
+
+.request-form-2 .danny-cafe-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 261px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanzto0d-EjxBHb {
+}
+
+.request-form-2 .please-list-the-subj-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 530px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanmfics-APNuES {
+}
+
+.request-form-2 .youngho-kim-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanfcbti-41HE75 {
+}
+
+.request-form-2 .customer-name-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.request-form-2 .spanwaucoi-2AOZtZ {
+}
+
+.request-form-2 .icon_20_in-aBxPYh {
+  background-color: transparent;
+  height: 20px;
+  left: 125px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.request-form-2 .phone-number-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  width: auto;
+}
+
+.request-form-2 .spanrqax2-bxleo1 {
+}
+
+.request-form-2 .icon_20_in-kP9iuS {
+  background-color: transparent;
+  height: 20px;
+  left: 118px;
+  position: absolute;
+  top: 109px;
+  width: 20px;
+}
+
+.request-form-2 .name-of-the-mentor-cafe-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 214px;
+  width: auto;
+}
+
+.request-form-2 .spanrr861-Kia4xE {
+}
+
+.request-form-2 .icon_20_in-CLf1o7 {
+  background-color: transparent;
+  height: 20px;
+  left: 192px;
+  position: absolute;
+  top: 218px;
+  width: 20px;
+}
+
+.request-form-2 .in-which-area-do-you-want-to-talk-about-aBxPYh {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 323px;
+  width: auto;
+}
+
+.request-form-2 .spanxt2yh-EKfoVo {
+}
+
+.request-form-2 .group-126-XEctnc {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 60px;
+  width: 130px;
+}
+
+.request-form-2 .coffinsight-EVOZNF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.request-form-2 .spanudpl9-p3MRxx {
+}
+
+.request-form-2 .coffinsight_mo-footer-XEctnc {
+  background-color: var(--white);
+  height: 242px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 959px;
+  width: 375px;
+}
+
+.request-form-2 .rectangle-94-QQy0JH {
+  background-color: transparent;
+  height: 513px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.request-form-2 .insta-QQy0JH {
+  background-color: transparent;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 408px;
+  width: 24px;
+}
+
+.request-form-2 .rectangle-71-RY7Vrd {
+  background-color: var(--eerie-black);
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.request-form-2 .group-126-776Sdx {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 977px;
+  width: 130px;
+}
+
+.request-form-2 .coffinsight-zGNOUb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.request-form-2 .span12vobi-3QHotI {
+}
+
+.request-form-2 .group-135-XEctnc {
+  background-color: transparent;
+  height: 131px;
+  left: 27px;
+  position: absolute;
+  top: 624px;
+  width: 94px;
+}
+
+.request-form-2 .please-enter-your-phone-number-sbFenZ {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanr66u2g-m0X42V {
+}
+
+.request-form-2 .rectangle-216-sbFenZ {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.request-form-2 .please-enter-your-phone-number-7QX89V {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spann2btq-7kD76h {
+}
+
+.request-form-2 .rectangle-216-7QX89V {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 30px;
+  width: 15px;
+}
+
+.request-form-2 .please-enter-your-phone-number-Uxxdar {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanjmykti-rvMee1 {
+}
+
+.request-form-2 .rectangle-216-Uxxdar {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 15px;
+}
+
+.request-form-2 .please-enter-your-phone-number-Cp5m1J {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spanij76t-hUcMgi {
+}
+
+.request-form-2 .rectangle-216-Cp5m1J {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 87px;
+  width: 15px;
+}
+
+.request-form-2 .please-enter-your-phone-number-Qdhhn3 {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-2 .spano873x-BhGok3 {
+}
+
+.request-form-2 .rectangle-216-Qdhhn3 {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 116px;
+  width: 15px;
+}
+
+.request-form-2 .mask-group-XEctnc {
+  background-color: transparent;
+  height: 30px;
+  left: 27px;
+  position: absolute;
+  top: 60px;
+  width: 29px;
+}
+
+.request-form-2 .mask-group-776Sdx {
+  background-color: transparent;
+  height: 30px;
+  left: 24px;
+  position: absolute;
+  top: 977px;
+  width: 29px;
+}

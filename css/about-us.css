@@ -1,0 +1,539 @@
+/* screen - about-us */
+
+.about-us {
+  background-color: var(--white);
+  height: 1259px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.about-us .mo_gnb-MpTUx9 {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 45px;
+  width: 375px;
+}
+
+.about-us .rectangle-74-UGiLQj {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.about-us .icon_24_hamburg-UGiLQj {
+  background-color: transparent;
+  height: 24px;
+  left: 327px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.about-us .hamburg-oM4ZnP {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 22px;
+}
+
+.about-us .rectangle-76-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-us .rectangle-79-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.about-us .rectangle-82-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.about-us .rectangle-77-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-us .rectangle-80-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.about-us .rectangle-83-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.about-us .rectangle-78-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.about-us .rectangle-81-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.about-us .rectangle-84-xWQNu3 {
+  background-color: var(--black);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.about-us .line-2-UGiLQj {
+  background-color: transparent;
+  height: 1px;
+  left: -288px;
+  position: absolute;
+  top: 60px;
+  width: 1920px;
+}
+
+.about-us .group-126-MpTUx9 {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 60px;
+  width: 130px;
+}
+
+.about-us .coffinsight-NYGB9f {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-us .span85nmd-t3CPpC {
+}
+
+.about-us .coffinsight_mo-footer-MpTUx9 {
+  background-color: var(--white);
+  height: 242px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1017px;
+  width: 375px;
+}
+
+.about-us .rectangle-94-1uaery {
+  background-color: transparent;
+  height: 513px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.about-us .insta-1uaery {
+  background-color: transparent;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 408px;
+  width: 24px;
+}
+
+.about-us .rectangle-71-hppbFb {
+  background-color: var(--eerie-black);
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.about-us .group-126-hBLU77 {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 1035px;
+  width: 130px;
+}
+
+.about-us .coffinsight-Tq9n28 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-us .span5d1nl-A0z2Ch {
+}
+
+.about-us .mask-group-MpTUx9 {
+  background-color: transparent;
+  height: 30px;
+  left: 28px;
+  position: absolute;
+  top: 60px;
+  width: 29px;
+}
+
+.about-us .mask-group-hBLU77 {
+  background-color: transparent;
+  height: 30px;
+  left: 24px;
+  position: absolute;
+  top: 1035px;
+  width: 29px;
+}
+
+.about-us .group-144-MpTUx9 {
+  background-color: transparent;
+  height: 334px;
+  left: 21px;
+  position: absolute;
+  top: 421px;
+  width: 285px;
+}
+
+.about-us .who-we-are-S6p4BC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 133px;
+}
+
+.about-us .spanfe4tn-81xK9d {
+}
+
+.about-us .group-142-S6p4BC {
+  background-color: transparent;
+  height: 292px;
+  left: 3px;
+  position: absolute;
+  top: 42px;
+  width: 288px;
+}
+
+.about-us .youngho-kim-NllgdG {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  white-space: nowrap;
+  width: 162px;
+}
+
+.about-us .spanq8aa6-U8WQCZ {
+}
+
+.about-us .duk-young-eom-NllgdG {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 251px;
+  white-space: nowrap;
+  width: 162px;
+}
+
+.about-us .spanuwktlg-cBIcRW {
+}
+
+.about-us .junghun-park-NllgdG {
+  background-color: transparent;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  white-space: nowrap;
+  width: 162px;
+}
+
+.about-us .spanhrhsa-OBEzJD {
+}
+
+.about-us .hamin-lim-NllgdG {
+  background-color: transparent;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  white-space: nowrap;
+  width: 162px;
+}
+
+.about-us .spans7492-h3bLtj {
+}
+
+.about-us .kakao-talk_20220512_194909738_03-1-NllgdG {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 84px;
+}
+
+.about-us .kakao-talk_20220512_194909738_02-1-NllgdG {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 84px;
+}
+
+.about-us .kakao-talk_20220512_194909738-1-NllgdG {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  width: 84px;
+}
+
+.about-us .kakao-talk_20220512_194909738_01-1-NllgdG {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 84px;
+}
+
+.about-us .group-146-MpTUx9 {
+  background-color: transparent;
+  height: 136px;
+  left: 21px;
+  position: absolute;
+  top: 105px;
+  width: 331px;
+}
+
+.about-us .problem-and-target-users-OKDoIc {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 303px;
+}
+
+.about-us .spanjv3pl-W9MSsz {
+}
+
+.about-us .there-are-too-many-s-OKDoIc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: 327px;
+}
+
+.about-us .spantg5a9-YavICf {
+}
+
+.about-us .group-145-MpTUx9 {
+  background-color: transparent;
+  height: 112px;
+  left: 24px;
+  position: absolute;
+  top: 275px;
+  width: 327px;
+}
+
+.about-us .our-solution-1YeYJq {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 280px;
+}
+
+.about-us .spans3gxt-Z08Md5 {
+}
+
+.about-us .sharing-insights-fro-1YeYJq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 323px;
+}
+
+.about-us .spanjmynt-x8vxg2 {
+}
+
+.about-us .group-143-MpTUx9 {
+  background-color: transparent;
+  height: 145px;
+  left: 21px;
+  position: absolute;
+  top: 789px;
+  width: 330px;
+}
+
+.about-us .links-to-the-documents-4xDFxw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 316px;
+}
+
+.about-us .span1c1yh-gbW0ie {
+}
+
+.about-us .formative-reserah-re-4xDFxw {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 323px;
+}
+
+.about-us .span0-4sfxtc {
+}
+
+.about-us .span1-4sfxtc {
+}
+
+.about-us .span2-4sfxtc {
+}
+
+.about-us .span3-4sfxtc {
+}
+
+.about-us .span4-4sfxtc {
+}

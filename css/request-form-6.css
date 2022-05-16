@@ -1,0 +1,804 @@
+/* screen - request-form-6 */
+
+.request-form-6 {
+  background-color: var(--white);
+  height: 1201px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.request-form-6 .group-127-uDQqFA {
+  background-color: transparent;
+  height: 56px;
+  left: 23px;
+  position: absolute;
+  top: 392px;
+  width: 328px;
+}
+
+.request-form-6 .rectangle-151-oI1F15 {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 328px;
+}
+
+.request-form-6 .mo_gnb-uDQqFA {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 45px;
+  width: 375px;
+}
+
+.request-form-6 .rectangle-74-IxjkGC {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.request-form-6 .icon_24_hamburg-IxjkGC {
+  background-color: transparent;
+  height: 24px;
+  left: 327px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.request-form-6 .hamburg-zEifSe {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 22px;
+}
+
+.request-form-6 .rectangle-76-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-79-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-82-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-77-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-80-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-83-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-78-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-81-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.request-form-6 .rectangle-84-mRexHc {
+  background-color: var(--quincy);
+  height: 4px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.request-form-6 .line-2-IxjkGC {
+  background-color: transparent;
+  height: 1px;
+  left: -288px;
+  position: absolute;
+  top: 60px;
+  width: 1920px;
+}
+
+.request-form-6 .request-form-uDQqFA {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.request-form-6 .span4hai8-Q0ezZT {
+}
+
+.request-form-6 .ask-your-cafe-mentor-uDQqFA {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  width: 271px;
+}
+
+.request-form-6 .spane5jfqi-y6LrZB {
+}
+
+.request-form-6 .group-64-uDQqFA {
+  background-color: transparent;
+  height: 46px;
+  left: 147px;
+  position: absolute;
+  top: 863px;
+  width: 84px;
+}
+
+.request-form-6 .rectangle-65-jctiXw {
+  background-color: var(--gray-nurse);
+  border-radius: 5px;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.request-form-6 .submit-jctiXw {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spanaqs92-PA6CtE {
+}
+
+.request-form-6 .group-129-uDQqFA {
+  background-color: transparent;
+  height: 569px;
+  left: 23px;
+  position: absolute;
+  top: 255px;
+  width: 345px;
+}
+
+.request-form-6 .rectangle-151-P6Hvwx {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31px;
+  width: 328px;
+}
+
+.request-form-6 .please-enter-your-phone-number-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 157px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spancjp09-F0kx8n {
+}
+
+.request-form-6 .rectangle-151-58ImXg {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 241px;
+  width: 328px;
+}
+
+.request-form-6 .rectangle-152-P6Hvwx {
+  background-color: var(--alabaster);
+  border-radius: 5px;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 513px;
+  width: 328px;
+}
+
+.request-form-6 .danny-cafe-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 261px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spanprmhe-ME2d5j {
+}
+
+.request-form-6 .please-list-the-subj-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 530px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .span8ytpuj-V8RMT3 {
+}
+
+.request-form-6 .youngho-kim-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spanwwv7wf-mySeb3 {
+}
+
+.request-form-6 .customer-name-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.request-form-6 .span31ylw-oXxUrA {
+}
+
+.request-form-6 .icon_20_in-P6Hvwx {
+  background-color: transparent;
+  height: 20px;
+  left: 125px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.request-form-6 .phone-number-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  width: auto;
+}
+
+.request-form-6 .span1e1xh-HkQB9D {
+}
+
+.request-form-6 .icon_20_in-58ImXg {
+  background-color: transparent;
+  height: 20px;
+  left: 118px;
+  position: absolute;
+  top: 109px;
+  width: 20px;
+}
+
+.request-form-6 .name-of-the-mentor-cafe-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 214px;
+  width: auto;
+}
+
+.request-form-6 .span53mep-pfY7Ia {
+}
+
+.request-form-6 .icon_20_in-mRvVo0 {
+  background-color: transparent;
+  height: 20px;
+  left: 192px;
+  position: absolute;
+  top: 218px;
+  width: 20px;
+}
+
+.request-form-6 .in-which-area-do-you-want-to-talk-about-P6Hvwx {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 323px;
+  width: auto;
+}
+
+.request-form-6 .span3lzsn-N0PxBi {
+}
+
+.request-form-6 .group-126-uDQqFA {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 60px;
+  width: 130px;
+}
+
+.request-form-6 .coffinsight-brQkgj {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.request-form-6 .span5ana4i-yuUfBw {
+}
+
+.request-form-6 .coffinsight_mo-footer-uDQqFA {
+  background-color: var(--white);
+  height: 242px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 959px;
+  width: 375px;
+}
+
+.request-form-6 .rectangle-94-iQaAzr {
+  background-color: transparent;
+  height: 513px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.request-form-6 .insta-iQaAzr {
+  background-color: transparent;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 408px;
+  width: 24px;
+}
+
+.request-form-6 .rectangle-71-oDIbV1 {
+  background-color: var(--eerie-black);
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.request-form-6 .group-126-QAiEIb {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 977px;
+  width: 130px;
+}
+
+.request-form-6 .coffinsight-wauKep {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.request-form-6 .span5jzp1l-6UbXe2 {
+}
+
+.request-form-6 .group-135-uDQqFA {
+  background-color: transparent;
+  height: 131px;
+  left: 27px;
+  position: absolute;
+  top: 624px;
+  width: 94px;
+}
+
+.request-form-6 .please-enter-your-phone-number-s3xljz {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .span5rbyy-A1HfFK {
+}
+
+.request-form-6 .rectangle-216-s3xljz {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.request-form-6 .please-enter-your-phone-number-yFmDkm {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spanqx5s3-iC4sxH {
+}
+
+.request-form-6 .rectangle-216-yFmDkm {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 30px;
+  width: 15px;
+}
+
+.request-form-6 .please-enter-your-phone-number-1t08CA {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spanvsyjgj-2gcqvq {
+}
+
+.request-form-6 .rectangle-216-1t08CA {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 15px;
+}
+
+.request-form-6 .please-enter-your-phone-number-Gvrspx {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .spanjwm7m-JGDs2S {
+}
+
+.request-form-6 .rectangle-216-Gvrspx {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 87px;
+  width: 15px;
+}
+
+.request-form-6 .please-enter-your-phone-number-tYExMj {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.request-form-6 .span66zju-cGFfQD {
+}
+
+.request-form-6 .rectangle-216-tYExMj {
+  background-color: var(--white);
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 116px;
+  width: 15px;
+}
+
+.request-form-6 .vector-uDQqFA {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 625px;
+  width: 15px;
+}
+
+.request-form-6 .vector-QAiEIb {
+  background-color: transparent;
+  height: 15px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 654px;
+  width: 15px;
+}
+
+.request-form-6 .shadow-mask-uDQqFA {
+  background-color: transparent;
+  height: 959px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.request-form-6 .submit-alert-uDQqFA {
+  background-color: transparent;
+  height: 159px;
+  left: 23px;
+  position: absolute;
+  top: 279px;
+  width: 328px;
+}
+
+.request-form-6 .box-rectangle-y2mR5i {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.request-form-6 .the-request-form-has-y2mR5i {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: 324px;
+}
+
+.request-form-6 .span8wixc-CRTdgw {
+}
+
+.request-form-6 .group-137-y2mR5i {
+  background-color: transparent;
+  height: 22px;
+  left: 135px;
+  position: absolute;
+  top: 111px;
+  width: 64px;
+}
+
+.request-form-6 .rectangle-65-LQBktT {
+  background-color: var(--gray-nurse);
+  border-radius: 5px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.request-form-6 .confirm-LQBktT {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.request-form-6 .spanrawkr-hHrc84 {
+}
+
+.request-form-6 .vector-y2mR5i {
+  background-color: transparent;
+  height: 30px;
+  left: 151px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 30px;
+}
+
+.request-form-6 .mask-group-uDQqFA {
+  background-color: transparent;
+  height: 30px;
+  left: 27px;
+  position: absolute;
+  top: 60px;
+  width: 29px;
+}
+
+.request-form-6 .mask-group-QAiEIb {
+  background-color: transparent;
+  height: 30px;
+  left: 23px;
+  position: absolute;
+  top: 977px;
+  width: 29px;
+}

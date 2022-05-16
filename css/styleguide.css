@@ -1,0 +1,298 @@
+:root { 
+  --alabaster: #f9fcfd;
+  --black: #000000;
+  --bon-jour: #e0e0e0;
+  --downy: #6dd0b8;
+  --eerie-black: #191919;
+  --gallery: #eeeeee;
+  --granite-gray: #666666;
+  --gray-nurse: #eaeaea;
+  --mine-shaft: #333333;
+  --mist-gray: #c4c4c4;
+  --mountain-mist: #999999;
+  --mystic: #e5e8eb;
+  --orange-red: #ff2424b2;
+  --potters-clay: #7e5639;
+  --quincy: #60432e;
+  --silver: #c1c1c1;
+  --silver-chalice: #aeaeae;
+  --white: #ffffff;
+  --white-2: #ffffffe6;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 30px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 13px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-abel: "Abel", Helvetica;
+}
+.abel-normal-quincy-16px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mountain-mist-15px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-18px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-granite-gray-13px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-14px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-granite-gray-16px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-30px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-silver-12px {
+  color: var(--silver);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-granite-gray-12px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-25px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-silver-chalice-14px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mountain-mist-12px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-granite-gray-15px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-potters-clay-15px {
+  color: var(--potters-clay);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mountain-mist-13px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-22px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-12px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-downy-15px {
+  color: var(--downy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mountain-mist-14px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-mist-gray-15px {
+  color: var(--mist-gray);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-24px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-quincy-13px {
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-mystic {
+  border: 1px solid var(--mystic);
+}
+
+.border-1px-quincy {
+  border: 1px solid var(--quincy);
+}
+
+.border-1px-bon-jour {
+  border: 1px solid var(--bon-jour);
+}

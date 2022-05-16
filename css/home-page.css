@@ -1,0 +1,850 @@
+/* screen - home-page */
+
+.home-page {
+  background-color: var(--white);
+  height: 1641px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.home-page .why-makes-coffee-sho-xVxyAW {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1241px;
+  width: auto;
+}
+
+.home-page .spanoz9qg-rgX3SQ {
+  font-style: normal;
+}
+
+.home-page .rectangle-222-xVxyAW {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 200px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 616px;
+  width: 154px;
+}
+
+.home-page .mo_gnb-xVxyAW {
+  background-color: var(--white);
+  height: 59px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 375px;
+}
+
+.home-page .rectangle-74-XxRxG1 {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.home-page .icon_24_hamburg-XxRxG1 {
+  background-color: transparent;
+  height: 24px;
+  left: 327px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.home-page .hamburg-eMxm5V {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 22px;
+}
+
+.home-page .line-2-XxRxG1 {
+  background-color: transparent;
+  height: 1px;
+  left: -288px;
+  position: absolute;
+  top: 60px;
+  width: 1920px;
+}
+
+.home-page .rectangle-87-xVxyAW {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 200px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 394px;
+  width: 154px;
+}
+
+.home-page .rectangle-89-xVxyAW {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 200px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 394px;
+  width: 154px;
+}
+
+.home-page .rectangle-88-xVxyAW {
+  background-color: transparent;
+  height: 120px;
+  left: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 394px;
+  width: 154px;
+}
+
+.home-page .rectangle-90-xVxyAW {
+  background-color: transparent;
+  height: 120px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 394px;
+  width: 154px;
+}
+
+.home-page .parc15-incheon-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 524px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .spandhxbti-dNOIXG {
+}
+
+.home-page .rxdanny-seoul-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 524px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .span0mpwhh-83wXfX {
+}
+
+.home-page .start-with-why-cafe-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 548px;
+  width: 130px;
+}
+
+.home-page .spanupxov-cFNgxI {
+}
+
+.home-page .never-undersestimate-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 548px;
+  width: 130px;
+}
+
+.home-page .spanfjykg-SpQiR3 {
+}
+
+.home-page .rectangle-220-xVxyAW {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 200px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 838px;
+  width: 154px;
+}
+
+.home-page .rectangle-221-xVxyAW {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 200px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 838px;
+  width: 154px;
+}
+
+.home-page .limhamin77-ilsan-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 968px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .span64fzxh-VTzPNh {
+}
+
+.home-page .kuhnalex79-incheon-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 968px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .spanov47l-Iiu3wm {
+}
+
+.home-page .cafe-is-something-that-expresses-our-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 992px;
+  width: 130px;
+}
+
+.home-page .span1bb6c-a0j1S1 {
+}
+
+.home-page .list-up-what-you-lov-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 992px;
+  width: auto;
+}
+
+.home-page .span3sq9-cZRVGx {
+}
+
+.home-page .rectangle-216-xVxyAW {
+  background-color: transparent;
+  height: 120px;
+  left: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 616px;
+  width: 154px;
+}
+
+.home-page .rectangle-217-xVxyAW {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 200px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 616px;
+  width: 154px;
+}
+
+.home-page .dukyoung17-incheon-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 746px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .spangumz-mvixFB {
+}
+
+.home-page .tacohoon-seoul-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 746px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .spanrbfc7-tWhuRR {
+}
+
+.home-page .do-not-worry-just-do-it-and-face-the-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 771px;
+  width: 130px;
+}
+
+.home-page .span32xgp-BnfgPN {
+}
+
+.home-page .why-do-you-worry-so-much-start-first-xVxyAW {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 770px;
+  width: 130px;
+}
+
+.home-page .spanjjc4x-2iKXWG {
+}
+
+.home-page .group-47-xVxyAW {
+  background-color: transparent;
+  height: 26px;
+  left: 121px;
+  position: absolute;
+  top: 402px;
+  width: 51px;
+}
+
+.home-page .rectangle-52-pF42PZ {
+  background-color: var(--orange-red);
+  border-radius: 24px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.home-page .new-pF42PZ {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .spanjhxp2-Yvb9W5 {
+}
+
+.home-page .group-48-xVxyAW {
+  background-color: transparent;
+  height: 26px;
+  left: 295px;
+  position: absolute;
+  top: 402px;
+  width: 51px;
+}
+
+.home-page .rectangle-52-xI9ABd {
+  background-color: var(--orange-red);
+  border-radius: 24px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 49px;
+}
+
+.home-page .new-xI9ABd {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home-page .spanumtrs-gPlJid {
+}
+
+.home-page .unsplash-cgy-ob-te1-ij-q-xVxyAW {
+  background-color: transparent;
+  height: 123px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 838px;
+  width: 153px;
+}
+
+.home-page .unsplash-cgy-ob-te1-ij-q-6iAz2g {
+  background-color: transparent;
+  height: 120px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 616px;
+  width: 154px;
+}
+
+.home-page .unsplash-cgy-ob-te1-ij-q-W6w6Ty {
+  background-color: transparent;
+  height: 123px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 838px;
+  width: 154px;
+}
+
+.home-page .frame-163-xVxyAW {
+  background-color: transparent;
+  height: 28px;
+  left: 24px;
+  position: absolute;
+  top: 348px;
+  width: 70px;
+}
+
+.home-page .text_label-I4ya0S {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home-page .span2wpkw-yCZ70r {
+}
+
+.home-page .icon_20_in-I4ya0S {
+  background-color: transparent;
+  height: 20px;
+  left: 50px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.home-page .frame-164-xVxyAW {
+  background-color: transparent;
+  height: 28px;
+  left: 24px;
+  position: absolute;
+  top: 1069px;
+  width: 136px;
+}
+
+.home-page .cafe-insights-aFziMi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home-page .spanxyhp7-2uQx93 {
+}
+
+.home-page .icon_20_in-aFziMi {
+  background-color: transparent;
+  height: 20px;
+  left: 116px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.home-page .recommended-feed-xVxyAW {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1309px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.home-page .spantmqvuj-KgzZsY {
+  font-style: normal;
+}
+
+.home-page .frame-161-xVxyAW {
+  background-color: transparent;
+  height: 55px;
+  left: 24px;
+  position: absolute;
+  top: 1335px;
+  width: 328px;
+}
+
+.home-page .achieve-your-economic-freedom-SKjUri {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.home-page .spanbedfe-6UC3Si {
+  font-style: normal;
+}
+
+.home-page .x20220418-SKjUri {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.home-page .span9rorg-0I2zZ3 {
+}
+
+.home-page .coffinsight_mo-footer-xVxyAW {
+  background-color: var(--white);
+  height: 193px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1449px;
+  width: 375px;
+}
+
+.home-page .rectangle-94-I1548Z {
+  background-color: transparent;
+  height: 513px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.home-page .insta-I1548Z {
+  background-color: transparent;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 408px;
+  width: 24px;
+}
+
+.home-page .rectangle-71-DMg3eH {
+  background-color: #7f593d;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.home-page .group-67-xVxyAW {
+  background-color: transparent;
+  height: 8px;
+  left: 165px;
+  position: absolute;
+  top: 1116px;
+  width: 48px;
+}
+
+.home-page .ellipse-2-Ewx2jD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.home-page .ellipse-3-Ewx2jD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  left: 20px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.home-page .ellipse-4-Ewx2jD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  left: 40px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.home-page .group-124-xVxyAW {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 46px;
+  width: 130px;
+}
+
+.home-page .coffinsight-wdueM3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home-page .span6hwjhl-YxmsBi {
+}
+
+.home-page .group-125-xVxyAW {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 1463px;
+  width: 130px;
+}
+
+.home-page .coffinsight-W9xoQQ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home-page .spanlgp7n-GJvrQZ {
+}
+
+.home-page .mask-group-xVxyAW {
+  background-color: transparent;
+  height: 30px;
+  left: 29px;
+  position: absolute;
+  top: 46px;
+  width: 29px;
+}
+
+.home-page .frame-166-xVxyAW {
+  background-color: transparent;
+  height: 232px;
+  left: 23px;
+  overflow: hidden;
+  position: absolute;
+  top: 102px;
+  width: 351px;
+}
+
+.home-page .group-122-dI9uK4 {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.home-page .rectangle-167-dI9uK4 {
+  background-color: transparent;
+  height: 220px;
+  left: 337px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 328px;
+}
+
+.home-page .image-11-dI9uK4 {
+  background-color: transparent;
+  height: 220px;
+  left: 669px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 328px;
+}
+
+.home-page .frame-168-xVxyAW {
+  background-color: transparent;
+  height: 183px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1107px;
+  width: 355px;
+}
+
+.home-page .alphacolor-g-rk5-t551-80-unsplash-2-9cXrVZ {
+  background-color: transparent;
+  height: 183px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 328px;
+}
+
+.home-page .image-10-9cXrVZ {
+  background-color: transparent;
+  height: 183px;
+  left: 341px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 328px;
+}
+
+.home-page .image-12-9cXrVZ {
+  background-color: transparent;
+  height: 183px;
+  left: 682px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 328px;
+}

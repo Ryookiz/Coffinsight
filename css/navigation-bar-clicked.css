@@ -1,0 +1,135 @@
+/* screen - navigation-bar-clicked */
+
+.navigation-bar-clicked {
+  background-color: var(--white);
+  height: 825px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.navigation-bar-clicked .mo_gnb-EAC0HL {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 49px;
+  width: 375px;
+}
+
+.navigation-bar-clicked .rectangle-74-EjYebh {
+  background-color: var(--white);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.navigation-bar-clicked .icon_24_close-EjYebh {
+  background-color: transparent;
+  height: 24px;
+  left: 327px;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.navigation-bar-clicked .line-2-EjYebh {
+  background-color: transparent;
+  height: 1px;
+  left: -288px;
+  position: absolute;
+  top: 60px;
+  width: 1920px;
+}
+
+.navigation-bar-clicked .home-EAC0HL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: -0.45px;
+  line-height: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.navigation-bar-clicked .spanceo5c-ETwuZO {
+}
+
+.navigation-bar-clicked .story-EAC0HL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: -0.45px;
+  line-height: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 208px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.navigation-bar-clicked .span1tsgy-PqNnGx {
+}
+
+.navigation-bar-clicked .customer-service-EAC0HL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: -0.45px;
+  line-height: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 277px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.navigation-bar-clicked .span1xjypj-ygUjpJ {
+}
+
+.navigation-bar-clicked .group-125-EAC0HL {
+  background-color: transparent;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 64px;
+  width: 130px;
+}
+
+.navigation-bar-clicked .coffinsight-Baxy0W {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.navigation-bar-clicked .span5osoyf-VujEqG {
+}
+
+.navigation-bar-clicked .mask-group-EAC0HL {
+  background-color: transparent;
+  height: 30px;
+  left: 30px;
+  position: absolute;
+  top: 64px;
+  width: 29px;
+}
