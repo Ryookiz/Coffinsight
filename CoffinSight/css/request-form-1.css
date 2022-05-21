@@ -257,7 +257,9 @@
   top: 31px;
   width: 328px;
 }
-
+.request-form-1 input[type="checkbox"] {
+  accent-color: #7F593D;
+}
 .request-form-1 .please-enter-your-phone-number-9VcFqG {
   background-color: transparent;
   color: var(--silver-chalice);
@@ -539,7 +541,7 @@
   background-color: transparent;
   height: 131px;
   position: absolute;
-  top: 624px;
+  top: 605px;
   width: 94px;
 }
 
@@ -694,4 +696,8 @@
   position: absolute;
   top: 977px;
   width: 29px;
+}
+.request-form-1 textarea{
+  color: black;
+  font-size: medium;
 }
