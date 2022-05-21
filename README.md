@@ -5,7 +5,7 @@ Name | Email
 ---|---|
 Dukyoung Eum  |  dukyoung.eom@stonybrook.edu
 Hamin Lim     |  hamin.Lim@stonybrook.edu
-Junghun Park  |  junghun.park@stonybrook.eud
+Junghun Park  |  junghun.park@stonybrook.edu
 Youngho Kim   |  youngho.Kim@stonybrook.edu
 
 ## Project Outline
