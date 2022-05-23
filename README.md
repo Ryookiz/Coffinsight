@@ -7,7 +7,9 @@ Dukyoung Eum  |  dukyoung.eom@stonybrook.edu
 Hamin Lim     |  hamin.Lim@stonybrook.edu
 Junghun Park  |  junghun.park@stonybrook.edu
 Youngho Kim   |  youngho.Kim@stonybrook.edu
-
+## Product Link
+Click below to visit deployed Coffinsight web-application
+* [Coffinsight](https://main--coffinsight.netlify.app)
 ## Project Outline
 
 ### Tentative Target Users
