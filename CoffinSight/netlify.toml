@@ -1,0 +1,44 @@
+[[redirects]]
+  from = "/"
+  to = "/home-page.html"
+  status = 200
+
+[[redirects]]
+  from = "/about-us"
+  to = "/about-us.html"
+  status = 200
+
+[[redirects]]
+  from = "/menu-page"
+  to = "/menu-page.html"
+  status = 200
+
+[[redirects]]
+  from = "/menu-page-2"
+  to = "menu-page-2.html"
+  status = 200
+
+[[redirects]]
+  from = "/about-us"
+  to = "/about-us.html"
+  status = 200
+
+[[redirects]]
+  from = "/about-us"
+  to = "/about-us.html"
+  status = 200
+
+[[redirects]]
+  from = "/about-us"
+  to = "/about-us.html"
+  status = 200
+
+[[redirects]]
+  from = "/about-us"
+  to = "/about-us.html"
+  status = 200
+
+[[redirects]]
+  from = "/about-us"
+  to = "/about-us.html"
+  status = 200

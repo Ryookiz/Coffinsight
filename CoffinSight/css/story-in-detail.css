@@ -19,7 +19,99 @@
   top: 3897px;
   width: 328px;
 }
+.story-in-detail .product-info-box-uXwUU8 {
+  background-color: transparent;
+  height: 83px;
+  left: 93px;
+  position: absolute;
+  top: 433px;
+  width: 210px;
+}
+.story-in-detail .rectangle-114-axYWDk {
+  background-color: transparent;
+  height: 83px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 204px;
+}
+.story-in-detail .espresso-machine-axYWDk {
+  background-color: transparent;
+  color: var(--granite-gray);
+  font-family: var(--font-family-abel);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.story-in-detail .span9fuqh-fdAiSi {
+  font-style: normal;
+}
+.story-in-detail .slayer-espresso-axYWDk {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
 
+.story-in-detail .spanyvytd-cNcFIw {
+  font-style: normal;
+}
+
+.story-in-detail .x2230000-axYWDk {
+  background-color: transparent;
+  color: var(--eerie-black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.story-in-detail .spansgpi2-3wIgiZ {
+  font-style: normal;
+}
+
+.story-in-detail .rectangle-115-axYWDk {
+  background-color: transparent;
+  height: 50px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 50px;
+}
 .story-in-detail .icon_24_back-ZmwBE2 {
   background-color: transparent;
   height: 24px;
@@ -829,6 +921,11 @@
   position: absolute;
   top: 3337px;
   width: 286px;
+  color: var(--granite-gray);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .story-in-detail .tacohun-ZmwBE2 {
@@ -1641,6 +1738,11 @@
 }
 
 .story-in-detail .rectangle-166-ZmwBE2 {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
   background-color: transparent;
   height: 100px;
   left: 54px;
@@ -1681,6 +1783,7 @@
 }
 
 .story-in-detail .spank0n99-dfsD1F {
+  cursor: pointer;
 }
 
 .story-in-detail .enter-Uj8tan {
@@ -1698,24 +1801,38 @@
 }
 
 .story-in-detail .spanou3wo-PXufRx {
+  cursor: pointer;
 }
 
 .story-in-detail .group-115-ZmwBE2 {
-  background-color: transparent;
+  color:white;
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  background-color: #60432E; 
+  width:328px; 
+  height:48px;
+  border: 1px black solid; 
+  border-radius: 5px; 
+  line-height: 3; 
+  text-align: center;
   height: 46px;
   left: 24px;
   position: absolute;
   top: 821px;
   width: 328px;
+  cursor:pointer;
 }
 
 .story-in-detail .icon_30_tag-ZmwBE2 {
   background-color: transparent;
   height: 30px;
-  left: 98px;
+  left: 80px;
   position: absolute;
-  top: 490px;
+  top: 420px;
   width: 30px;
+  cursor: pointer;
 }
 
 .story-in-detail .group-125-ZmwBE2 {
