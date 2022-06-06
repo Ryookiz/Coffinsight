@@ -32,32 +32,32 @@
           <img class="line-2-rYsGIo" src="img/line-2-11@2x.png" />
         </div>
         <div class="menu-cnxpIg abel-normal-quincy-30px">
-          <span class="span2z7xvl-TIiEeL abel-normal-quincy-30px">Menu</span>
+          <span class="span2z7xvl-TIiEeL abel-normal-quincy-30px">PARC's Cafe</span>
         </div>
         <div class="click-the-menu-and-f-cnxpIg abel-normal-black-16px">
           <span class="span7z5ch-zUzYxA abel-normal-black-16px"
             >Click the menu and find out its ingredients information</span
           >
         </div>
-        <div class="rectangle-87-cnxpIg border-1px-mystic"></div>
-        <div class="rectangle-91-cnxpIg border-1px-mystic"></div>
-        <div class="rectangle-95-cnxpIg border-1px-mystic"></div>
-        <div class="rectangle-89-cnxpIg border-1px-mystic"></div>
+        <div class="rectangle-87-cnxpIg border-1px-mystic" onclick="showMenuDetail('img/image-2-3@2x.png','PARC\'s Signature', '250', 'Ice, Milk, Espresso')" style="background-color: transparent; z-index: 1;"></div>
+        <div class="rectangle-91-cnxpIg border-1px-mystic" onclick="showMenuDetail('img/image-4-3@2x.png', 'Lady Moca Coffee', '83','Costa Rica Bean, Ice, Rosemarry herb, Green ice cream')" style="background-color: transparent; z-index: 1;"></div>
+        <div class="rectangle-95-cnxpIg border-1px-mystic" onclick="showMenuDetail('img/image-6-3@2x.png', 'Conpana Espresso', '65','Green tea, Ice, Rosemarry herb')" style="background-color: transparent; z-index: 1;"></div>
+        <div class="rectangle-89-cnxpIg border-1px-mystic" onclick="showMenuDetail('img/image-8-1@2x.png','Green Tea Latte', '325','Green tea, Ice, Rosemarry herb, Green ice cream')" style="background-color: transparent; z-index: 1;"></div>
         <div class="green-tea-latte-cnxpIg abel-normal-mountain-mist-15px">
           <span class="spanio9ne-xx8PuL abel-normal-mountain-mist-15px">Green Tea Latte</span>
         </div>
         <div class="x7500-cnxpIg abel-normal-quincy-14px">
           <span class="spann7cki-d3r7mp abel-normal-quincy-14px">₩ 7,500</span>
         </div>
-        <div class="rectangle-92-cnxpIg border-1px-mystic"></div>
-        <div class="rectangle-96-cnxpIg border-1px-mystic"></div>
+        <div class="rectangle-92-cnxpIg border-1px-mystic" onclick="showMenuDetail('img/image-5-3@2x.png', 'Americano', '20','Costa Rica Bean, Ice')" style="background-color: transparent; z-index: 1;"></div>
+        <div class="rectangle-96-cnxpIg border-1px-mystic" onclick="showMenuDetail('img/image-7-3@2x.png','Cold Brew', '5','Costa Rica Bean, Ice')" style="background-color: transparent; z-index: 1;"></div>
         <img class="rectangle-93-cnxpIg" src="img/rectangle-93-2@2x.png" />
         <img class="rectangle-97-cnxpIg" src="img/rectangle-97-2@2x.png" />
         <img class="rectangle-90-cnxpIg" src="img/rectangle-90-3@2x.png" />
         <img class="rectangle-94-cnxpIg" src="img/rectangle-94-12@2x.png" />
         <img class="rectangle-98-cnxpIg" src="img/rectangle-98-2@2x.png" />
         <div class="linchpin-signature-cnxpIg abel-normal-mountain-mist-15px">
-          <span class="spansam6m-wfjOL9 abel-normal-mountain-mist-15px">Linchpin Signature</span>
+          <span class="spansam6m-wfjOL9 abel-normal-mountain-mist-15px">PARC's Signature</span>
         </div>
         <div class="x6500-cnxpIg abel-normal-quincy-14px">
           <span class="span8rcgd-3A5jhr abel-normal-quincy-14px">₩ 6,500</span>
@@ -122,16 +122,16 @@
           <div class="x5500-cnxpIg abel-normal-quincy-14px">
             <span class="spanj6d9l-m7cGd4 abel-normal-quincy-14px">₩ 5,500</span>
           </div>
-          <div class="group-139-cnxpIg">
+          <div class="group-139-cnxpIg" style="display: none; z-index: 99;" onclick="showMenuDetail()">
             <div class="group-138-PqNnDS">
               <img class="box-rectangle-g6txX2" src="img/boxrectangle-3@2x.png" />
               <div class="green-tea-latte-325-g6txX2 abel-normal-mountain-mist-15px">
-                <span class="span0-1Y1aMt abel-normal-mountain-mist-15px">Green Tea Latte<br /></span
-                ><span class="span1-1Y1aMt abel-normal-mountain-mist-15px"><br /></span
-                ><span class="span2-1Y1aMt">325 Kcal<br /></span
-                ><span class="spangcirnf-1Y1aMt abel-normal-mountain-mist-15px"
-                  ><br />Ingredients: green tea, ice, rosemarry herb, green ice cream</span
-                >
+                <span class="span0-1Y1aMt abel-normal-mountain-mist-15px name" style="color: black"></span
+                ><br /><span class="span1-1Y1aMt abel-normal-mountain-mist-15px"><br /></span
+                ><span class="span2-1Y1aMt kcal"></span
+                ><br /><span class="spangcirnf-1Y1aMt abel-normal-mountain-mist-15px ingredients"
+                  ></span
+                ><br />
               </div>
               <img class="image-8-g6txX2" src="img/image-8-1@2x.png" />
             </div>
@@ -143,3 +143,18 @@
     </div>
   </body>
 </html>
+<script>
+    function showMenuDetail(src, name, kcal, ingredients){
+      if(document.getElementsByClassName("group-139-cnxpIg")[0].style.display == 'none'){
+        document.getElementsByClassName("image-8-g6txX2")[0].src = src;
+        document.getElementsByClassName("name")[0].innerText = name
+        document.getElementsByClassName("kcal")[0].innerText = kcal + " kcal";
+        document.getElementsByClassName("ingredients")[0].innerText = "Ingredients: "+ ingredients;
+        document.getElementsByClassName("group-139-cnxpIg")[0].style.display = 'block';
+      }
+      else{
+        document.getElementsByClassName("group-139-cnxpIg")[0].style.display = 'none';
+      }
+    
+  }
+</script>
