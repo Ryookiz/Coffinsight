@@ -98,7 +98,49 @@
   white-space: nowrap;
   width: auto;
 }
+.story-in-detail .group-67-xVxyAW {
+  background-color: transparent;
+  height: 8px;
+  left: 165px;
+  position: absolute;
+  top: 1116px;
+  width: 48px;
+}
 
+.story-in-detail .ellipse-2-Ewx2jD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.story-in-detail .ellipse-3-Ewx2jD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  left: 20px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.story-in-detail .ellipse-4-Ewx2jD {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  left: 40px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
 .story-in-detail .spansgpi2-3wIgiZ {
   font-style: normal;
 }
