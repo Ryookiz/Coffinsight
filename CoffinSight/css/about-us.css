@@ -522,7 +522,13 @@
   top: 80px;
   width: 323px;
 }
-
+.about-us .abel-normal-quincy-30px{
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
 .about-us .span0-4sfxtc {
 }
 
