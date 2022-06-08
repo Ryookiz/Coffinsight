@@ -789,3 +789,11 @@
   top: 1205px;
   width: 29px;
 }
+
+.story-page .abel-normal-black-14px{
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}

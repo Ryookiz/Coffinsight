@@ -503,7 +503,7 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: -5px;
   width: 316px;
 }
 
@@ -519,7 +519,7 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 50px;
+  top: 32px;
   width: 323px;
 }
 .about-us .abel-normal-quincy-30px{
