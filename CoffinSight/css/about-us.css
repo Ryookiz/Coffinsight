@@ -431,13 +431,13 @@
 .about-us .there-are-too-many-s-OKDoIc {
   background-color: transparent;
   height: auto;
-  left: 0px;
+  left: 5px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 85px;
+  top: 50px;
   width: 327px;
 }
 
@@ -519,10 +519,16 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 80px;
+  top: 50px;
   width: 323px;
 }
-
+.about-us .abel-normal-quincy-30px{
+  color: var(--quincy);
+  font-family: var(--font-family-abel);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
 .about-us .span0-4sfxtc {
 }
 
